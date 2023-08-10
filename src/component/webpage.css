@@ -1,0 +1,21 @@
+table, th,td{
+    border:1px solid green;
+    margin-left: 180px;
+    padding: 25px;
+
+    border-collapse: collapse;
+    background-color: lightpink;
+}
+
+th{
+    background-color: brown;
+
+}
+td{
+   background-color:lightseagreen;
+
+}
+
+
+
+
