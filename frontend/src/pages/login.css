@@ -1,0 +1,108 @@
+
+.formbold-main-wrapper{
+    margin: 0 0 0 0;
+    width: 740px;
+    height: 479px;
+    align-items: center;
+    background-color: black;
+    border-radius: 35px;
+    box-sizing: border-box;
+    border: 8px rgb(194, 178, 128);
+    border-style: outset; 
+    box-shadow: 0 0 8px 8px inset rgb(194, 178, 128);
+    box-shadow:  rgba(139, 69, 19, 0.3) 0px 5px,  rgba(139, 69, 19, 0.1) 0px 20px,  rgba(139, 69, 19, 0.1) 0px 20px, rgba(139, 69, 19, 0.1) 0px 20px;
+    float: center;
+}
+
+.container{
+  margin-left:300px;
+  margin-top: 80px;
+}
+
+.formbold-input-flex{
+  margin-left: 1px;
+}
+
+.logo {
+  max-width: 100%;
+  max-height: 100%;
+  transform: scale(0.2);
+  padding: 5%;
+  margin-left: -66px;
+  margin-top: -180px;
+}
+
+.heading {
+  color: white;
+  max-width: 500px;
+  max-height: 500px;
+  height: auto;
+  width: auto;
+  font-size: small;
+  margin-left: 132px;
+  margin-top: -28%;
+  font-family: sans-serif;
+}
+
+.topic{
+    font-family:sans-serif;
+    font-size: large;
+    margin-left: 40%;
+}
+
+.rounded-label {
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  padding: 10px 45px;
+  margin-left: 7px;
+  margin-top: -35px;
+  float: left;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+.rounded-textbox {
+  border-radius: 15px; /* Adjust the radius as needed */
+  padding: 10px 45px;
+  width: 200px;
+  margin-top: 10px;
+  outline: none;
+  margin-left: 233px;
+  margin-top: 18px;
+  font-size: large;
+}
+
+.rounded-label1 {
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    padding: 10px 35px;
+    margin-left: 7px; 
+    margin-top: -35px;
+    float: left;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .rounded-textbox1 {
+    border-radius: 15px; /* Adjust the radius as needed */
+    padding: 10px 45px;
+    width: 200px;
+    margin-top: 10px;
+    outline: none;
+    font-size: large;
+    margin-left: 233px;
+    margin-top: 55px;
+  
+  }
+  .formbold-btn{
+    padding: 4px 105px;
+    margin-top: 35px;
+    margin-left: -69px;
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size: x-large;
+    box-shadow:  rgba(139, 69, 19, 0.4) 0px 5px, rgba(139, 69, 19, 0.3) 0px 10px, rgba(139, 69, 19, 0.2) 0px 15px, rgba(139, 69, 19, 0.1) 0px 20px, rgba(139, 69, 19, 0.05) 0px 25px;
+    border: 1px solid;
+  }
