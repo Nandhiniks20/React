@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   const [message, setMessage] = useState("");
-
+//Api connected
   useEffect(() => {
     fetch("http://localhost:8000/message")
       .then((res) => res.json())
