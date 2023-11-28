@@ -1,0 +1,123 @@
+.navbarContainer{
+    position: relative;
+}
+.sicons{
+    position: relative;
+    display: flex;
+    margin-left: 20cm;
+    margin-top: -1cm;
+    font-size: 20px;
+}
+.search{
+    position: relative;
+    left:10px;
+    font-size: 150%;
+    top:10px;
+}
+.container1{
+    position: relative;
+    border:1px ;
+    border-radius: 4px;
+    width:45%;
+    height: 3.5cm;
+    padding:10px;
+    border-radius: 15px;
+    padding: 10px;
+    top:25px;
+    left:20px;
+    background-color:rgb(232, 243, 245)
+
+}
+.addcustomers{
+    position: relative;
+    border:1px solid;
+    border-radius: 4px;
+    width:5cm;
+    height: 1cm;
+    top: -4.6cm;
+    left:10px;   
+    background-color: black; 
+    color:white;
+}
+
+.container3{
+    position:relative;
+    left:12.8cm;
+    top:-7.6cm;
+    border: 1px ;
+    padding:3px;
+    width:170px;
+    height:3.7cm;
+    border-radius: 15px;
+    background-color: rgb(243, 221, 225);
+}
+.viewlist{
+    position: relative;
+    border:2px solid black;
+    border-radius:4px;
+    left:30px;
+    width:60%;
+    height:25px;
+    padding: 1px;
+    top:-2cm;
+    background-color: black;
+}
+.container4{
+    position:relative;
+    left:17.6cm;
+    top:-11.5cm;
+    border: 1px;
+    padding:3px;
+    width:170px;
+    height: 3.8cm;
+    border-radius: 15px;
+    background-color: rgb(243, 221, 225);
+
+}
+.viewlistt{
+    position: relative;
+    border:2px solid black;
+    border-radius:4px;
+    left:30px;
+    width:60%;
+    height:25px;
+    padding: 1px;
+    top:-1.4cm;
+    background-color: black;
+}
+.container5{
+    position:relative;
+    left:22.4cm;
+    top:-15.5cm;
+    border: 2px;
+    padding:3px;
+    width:170px;
+    height: 3.9cm;
+    border-radius: 15px;
+    background-color: rgb(221, 232, 243);
+
+}
+.viewlisttt{
+    position: relative;
+    border:2px solid black;
+    border-radius:4px;
+    left:25px;
+    width:60%;
+    height:25px;
+    padding: 1px;
+    top:-13px;
+    background-color: black;
+}
+
+.search1{
+    position: relative;
+    border:1px solid #ccc;
+    border-radius:4px;
+    width:10cm;
+    height: 1cm;
+    top:-15.3cm;
+}
+.data{
+    position: relative;
+    top:-15cm;
+}

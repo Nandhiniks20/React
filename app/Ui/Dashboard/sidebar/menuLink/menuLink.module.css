@@ -1,0 +1,28 @@
+/* .container{
+    position:sticky;
+    top:40px;
+}
+
+.user{
+    display:flex;
+    align-items: center;
+    gap: 2px;
+    
+} */
+.container{
+    padding:20px;
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
+.customLink {
+    text-decoration: none;
+    color: inherit; /* Use the default text color */
+  }
+  .container:hover, 
+  .active{
+    border:1px;
+    border-radius: 30px;
+    background-color: rgb(84, 189, 238);
+    width: 5cm;
+  }
