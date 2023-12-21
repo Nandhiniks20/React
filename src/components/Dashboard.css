@@ -1,0 +1,109 @@
+ .element-container {
+    position: relative;
+    border: 2px solid rgb(230, 218, 230);
+    margin: 10px;
+    width: 14cm;
+    height: 30cm;
+    left: 50px;
+  }
+  
+  .thick-border {
+    border: 1px;
+    display: flex;
+    width: 14cm;
+    height: 1cm;
+    background-color: #d7d9ec;
+    font-size: 20px;
+    left: 70px;
+  }
+  
+  .team-container {
+    position: relative;
+    left: 60px;
+    margin: 140px;
+  }
+  
+  .team {
+    position: relative;
+    margin: -120px;
+    top: 20px;
+    left: -250px;
+  }
+  
+  .game {
+    position: relative;
+    left: 30px;
+  }
+  
+  p {
+    position: relative;
+    left: -170px;
+    top: -14px;
+  }
+  
+  .playersNamecontainer {
+    position: relative;
+    margin: 10px;
+    top: 250px;
+    left: -170px;
+  }
+  
+  .playersName {
+    position: relative;
+    border: 2px solid green;
+    width: 120px;
+    top: 170px;
+    left: -40px;
+  }
+  
+  .playersAgecontainer {
+    position: relative;
+    margin: 10px;
+    left: 2cm;
+    width: 2cm;
+    top: 1.3cm;
+  }
+  
+  .playersAge {
+    position: absolute;
+    border: 2px solid green;
+    width: 2cm;
+  }
+  
+  .addPlayername {
+    position: relative;
+    width: 20%;
+  }
+  
+  .savebutton {
+    position: relative;
+    margin: 10px;
+    top: -4.3cm;
+    left: 3cm;
+    width: 25%;
+    padding: 16px;
+    border-radius: 7px;
+  }
+  
+  .savebutton1{
+    border-radius: 7px;
+  }
+  
+  .hidden-input-container {
+    position: relative;
+    margin: 10px;
+    top: -10cm;
+    margin: -100px;
+  }
+  .button1{
+    border-radius: 7px;
+  }
+  .button2{
+    border-radius: 7px;
+  }
+  .button3{
+    border-radius: 7px;
+  }
+  .button4{
+    border-radius: 7px;
+  }
