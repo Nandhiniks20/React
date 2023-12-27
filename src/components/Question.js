@@ -93,7 +93,7 @@ const Questions = () => {
           </div>
           {showNextButton && (
           <button className="next" onClick={handleNext}>
-            Next
+           {'--->'} Next
           </button>
         )}
 

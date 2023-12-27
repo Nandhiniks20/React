@@ -67,8 +67,8 @@
   }
   .next{
     position:absolute;
-    left: 2cm;
-     top:2cm; 
+    left: 24cm;
+     top:14cm; 
   }
   .line-animation {
     animation: drawLine 3s linear;
