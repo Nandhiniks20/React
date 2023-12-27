@@ -60,6 +60,16 @@
     left: 300px;
 
   }
+  .button1{
+   position:absolute;
+   left: -1cm;
+    top:2cm; 
+  }
+  .next{
+    position:absolute;
+    left: 2cm;
+     top:2cm; 
+  }
   .line-animation {
     animation: drawLine 3s linear;
     background-color: purple;

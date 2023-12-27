@@ -8,7 +8,6 @@ import { TbClock } from "react-icons/tb";
 import React, { useRef, useState} from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Questions from './components/Question';
-import ATest from './components/Simple';
 
 
 
