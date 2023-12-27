@@ -1,0 +1,73 @@
+.content {
+    position: absolute;
+    background-color: black;
+    color: white;
+    display: flex;
+    width: 35.1cm;
+    height: 10cm;
+    top: 4cm;
+    padding: 10px;
+    left: 1px;
+    flex-direction: row;
+  }
+  
+  .main-content1 {
+    position: absolute;
+    width: 28cm;
+    height: 15.25cm;
+    left: 145px;
+    top: 40px;
+    background-color:white;
+    border-radius: 10px;
+    color: black;
+  }
+  .question{
+    position: absolute;
+    left: 140px;
+    top:270px;
+  }
+  .slide-point{
+    position: absolute;
+    left: 6cm;
+  }
+  .labels{
+    position: absolute;
+    left: 200px;
+    top: 450px;
+  }
+  
+ .progress1::before {
+    content:  attr(value) "%"; 
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    top:-20px;
+ }
+
+
+  .slide-container{
+    position: absolute;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    color: black;
+    left:100px
+  }
+  .question{
+    position: absolute;
+    color: black;
+    left: 300px;
+
+  }
+  .line-animation {
+    animation: drawLine 3s linear;
+    background-color: purple;
+  }
+  
+  @keyframes drawLine {
+    to {
+      height: 100%;
+    }
+  }
+  
