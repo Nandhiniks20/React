@@ -1,0 +1,28 @@
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 100%; 
+    padding: 100px; 
+ 
+}
+.phoneno{
+    margin-left: 3cm;
+    margin-top: -1.1cm;
+
+}
+.maildata{
+    margin-left: 3cm;
+    margin-top: -1cm;
+}
+.instapic{
+    /* position: absolute; */
+    width:20px;
+    margin-left: 1cm;
+}
+.linkedinpic{
+    /* position: absolute; */
+    width:20px;
+    margin-left: 1.3cm;
+}

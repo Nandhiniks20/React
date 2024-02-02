@@ -1,0 +1,57 @@
+.speciesbody {
+    position: absolute;
+    display: flex; /* Change to relative to act as a positioning context for absolute positioning */
+    flex-direction: column;
+    width: 100%;
+    color: black;
+    /* background-color: white; */
+  }
+  
+   .search {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 177, 196);
+    width: 20%;
+    margin: 40px;
+    border-radius: 10px;
+    top: 2cm;
+  } 
+  .table-body{
+    display: flex;
+    flex-direction: column;
+    top:4cm;
+    width:80%;
+    margin-left: 4cm;
+    }
+  
+  table, thead,tr,th {
+    padding: 25px;
+  }
+  th{
+    font-size:180%;
+  }
+  table,tbody, tr, td{
+    padding:5px;
+  }
+td{
+  margin-left: 3cm;
+}   
+.download{
+  position:absolute;
+  top:11cm;
+  left:9cm;
+  background-color:rgb(57, 240, 57);
+}
+.zoomout{
+  position: absolute;
+  top:11cm;
+  left:6.6cm;
+  background-color: palevioletred;
+}
+.zoomin{
+  position: absolute;
+  top:11cm;
+  left:4.5cm;
+  background-color: palevioletred;
+}
+  

@@ -1,0 +1,46 @@
+.App{
+  flex-direction: column;
+  justify-content:center;
+  background-color: rgb(224, 153, 195);
+}
+
+header{
+  left:20px;
+  justify-content: center;
+  display: flex;
+  background-color: rgb(192, 223, 15);
+  font-size: 200%;
+  padding: 25px;
+}
+
+.nav{
+  background-color:rgb(236, 68, 68);
+  color:white;
+}
+li,a{
+  font-size:130%;
+  list-style: none;
+  text-decoration: none;
+  margin-left: 3cm;
+  top:118px;
+}
+li:nth-child(2){
+  position: absolute;
+  left: 5cm;
+}
+li:nth-child(3){
+  position: absolute;
+  left:9cm;
+}
+li:nth-child(4){
+  position: absolute;
+  left:13.3cm;
+}
+li:nth-child(5){
+  position: absolute;
+  left:17cm;
+}
+li:nth-child(6){
+  position: absolute;
+  left:22.3cm;
+}
