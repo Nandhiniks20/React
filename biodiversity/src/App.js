@@ -20,7 +20,6 @@ function App() {
       <div  className="nav">
         <nav className="navbar-content" style={{padding:'10px'}}>
           <ul>
-            {/*Nav bar portion started*/}
          <li className="list"><a href='/'>Home</a></li>  
          <li className="list"><a href='/about'>About</a></li> 
          <li className='list'><a href='/species'>Species</a></li>
