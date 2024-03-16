@@ -1,0 +1,37 @@
+.App{
+    position: absolute;
+    background-color: black;
+
+    width:40cm;
+    height:25cm;
+}
+.App1{
+    position: absolute;
+    width: 12cm;
+    height: 20cm;
+    background-color: black;
+    left: 12cm; 
+}
+.main-div{
+    position: absolute;
+    width: 12cm;
+    height: 20cm;
+    background-color: black;
+    border-radius: 55px;
+    border: 3px solid white;
+}
+
+.searchbar{
+    position: absolute; 
+    left:1.8cm;
+    top:6cm;
+    border:1px;
+    width: 4.8cm;
+    height: 0.8cm;
+    background-color: rgb(156, 141, 214);
+    border-radius: 10px;
+}
+.nav-bar{
+    display: flex;
+    flex-direction:column;
+}
